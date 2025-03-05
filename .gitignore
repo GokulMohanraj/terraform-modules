@@ -7,3 +7,5 @@ terraform.tfstate.backup
 *.tfout
 *.tfvars
 .terraform
+.terraform.lock.hcl
+tfplan
